@@ -4,7 +4,7 @@ collection: teaching
 type: "postgraduate course"
 permalink: /teaching/2024-spring-academic-writing
 venue: "Zhengzhou University, School of Management"
-date: 2024 spring
+date: 2024-04-24
 location: "Zhengzhou, China"
 ---
 
