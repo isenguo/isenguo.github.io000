@@ -13,4 +13,4 @@ I am an early-career academic who has experienced education in different countri
 
 My current research focuses on the applications of AI in various industries (AI-human interactions), primarily in healthcare, as well as on relationship management and digital transformation in supply chains (empirical methods). I am also interested in exploring the role of TikTok unions.
 
-Feel free to reach out if you share similar interests or if you are simply curious about my work :wink:
+Feel free to reach out if you share similar interests or if you are simply curious about my work 🫶
