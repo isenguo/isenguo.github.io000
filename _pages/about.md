@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Academic Page"
+title: "HELLLOOOOOO"
 author_profile: true
 redirect_from: 
   - /about/
