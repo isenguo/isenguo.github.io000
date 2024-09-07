@@ -2,7 +2,7 @@
 title: "基于数字技术的医疗管理文献回顾与展望"
 collection: publications
 category: manuscripts
-permalink: "/publication/2024-中文医疗"
+permalink: "/publication/2024-Chinese-Healthcare"
 excerpt: "This paper reviews digital technology-based healthcare management research."
 date: 2024-04-01
 venue: "工程管理科技前沿"
