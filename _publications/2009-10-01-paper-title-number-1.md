@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: "/publication/2024-paper-The-impacts-of-automation-and-augmentation-AI-use-on-physicians-performance-an-ambidextrous-perspective-number-1"
 excerpt: "This paper is about how different AI use impacts expert users' performance (like innovation and production)"
-date: 2024
+date: 2024-04-19
 venue: "International Journal of Operations & Production Management"
 slidesurl: "none"
 paperurl: "https://www.emerald.com/insight/content/doi/10.1108/IJOPM-06-2023-0509/full/html"
