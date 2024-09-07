@@ -71,6 +71,7 @@ Skills
   * Movies (80%)
   * Dogs (100%)
   * Tennis (50%)
+
 ---
 
 This CV outlines my academic and professional journey as an Assistant Professor at Zhengzhou University, specializing in AI-human interaction and supply chain operations. I am passionate about combining empirical research methods with innovative teaching to advance the field of management science.
