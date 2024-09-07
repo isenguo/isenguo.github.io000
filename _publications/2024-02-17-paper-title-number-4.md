@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: "/publication/2024-paper-基于数字技术的医疗管理文献回顾与展望"
 excerpt: "This paper reviews digital technology-based healthcare management research."
-date: 2023
+date: 2024-04-01
 venue: "工程管理科技前沿"
 slidesurl: "none"
 paperurl: "none"  # No URL available as it is ahead-of-print
