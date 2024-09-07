@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "The impact of supply chain specific investments on firms’ market performance: the mediating role of innovation"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: "/publication/2023-paper-The-impact-of-supply-chain-specific-investments-on-firms-market-performance-the-mediating-role-of-innovation"
+excerpt: "This paper is about a classic supply chain operation question: will specific investments to customers bring good results?"
+date: 2023
+venue: "Journal of Business & Industrial Marketing"
+slidesurl: "none"
+paperurl: "https://www.emerald.com/insight/content/doi/10.1108/JBIM-03-2021-0162/full/html"
+citation: "Huo, B., Guo, M. and Tian, M. (2023), \"The impact of supply chain specific investments on firms’ market performance: the mediating role of innovation\", Journal of Business & Industrial Marketing, Vol. 38 No. 1, pp. 208-222. https://doi.org/10.1108/JBIM-03-2021-0162."
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
