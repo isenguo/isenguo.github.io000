@@ -2,7 +2,7 @@
 title: "The impacts of automation and augmentation AI use on physicians’ performance: an ambidextrous perspective"
 collection: publications
 category: manuscripts
-permalink: "/publication/2024-paper-The-impacts-of-automation-and-augmentation-AI-use-on-physicians-performance-an-ambidextrous-perspective-number-1"
+permalink: "/publication/2024-ijopm-number-1"
 excerpt: "This paper is about how different AI use impacts expert users' performance (like innovation and production)"
 date: 2024-04-19
 venue: "International Journal of Operations & Production Management"
