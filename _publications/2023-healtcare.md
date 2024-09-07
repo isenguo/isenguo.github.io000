@@ -2,7 +2,7 @@
 title: "The impacts of the combination service model of cardiac rehabilitation on patient outcomes: evidence from a hospital experience"
 collection: publications
 category: manuscripts
-permalink: "/publication/2023-医疗"
+permalink: "/publication/2023-healtcare"
 excerpt: "This paper talks about the different service combinations in a typical China hospital, and how it leads to different patient outcomes."
 date: 2023-02-23
 venue: "Biotechnology and Genetic Engineering Reviews"
