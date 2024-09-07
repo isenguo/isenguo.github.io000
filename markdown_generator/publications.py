@@ -71,7 +71,7 @@ for row, item in publications.iterrows():
     ## YAML variables
     
     md = "---\ntitle: \""   + item.title + '"\n'   
-    #md += """collection: publications"""
+    md += """collection: publications"""
     
     md += """\npermalink: /publication/""" + html_filename
     
