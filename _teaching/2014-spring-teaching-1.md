@@ -1,20 +1,34 @@
 ---
-title: "Teaching experience 1"
+title: "Academic Writing"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "postgraduate course"
+permalink: /teaching/2024-spring-academic-writing
+venue: "Zhengzhou University, School of Management"
+date: 2024 spring
+location: "Zhengzhou, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course focuses on equipping postgraduate students with the skills necessary for effective academic writing. Below are the key details and learning outcomes of the course.
 
-Heading 1
-======
+### Course Details
 
-Heading 2
-======
+- **Course**: Academic Writing
+- **Term**: Spring 2024
+- **Credit**: 1
+- **Level**: Postgraduate
 
-Heading 3
-======
+### Learning Outcomes
+
+1. **Define a clear purpose for the research paper**: Develop and defend an interesting or novel set of questions to guide the research and choose an appropriate set of methods.
+   
+2. **Critical Literature Review**: Make judgments about how to most effectively search for primary and secondary data and decide what to include or exclude when producing a critical literature review.
+   
+3. **Methodology and Theoretical Frameworks**: Demonstrate awareness of the potentially contradictory methodologies and theoretical frameworks that can be selected for research.
+
+4. **Referencing**: Use a referencing system with consistency and accuracy in academic writing.
+
+5. **Submission and Peer Review**: Become familiar with submission formats and learn how to effectively handle reviewers’ comments.
+
+---
+
+This course is designed to build essential academic writing skills for postgraduate students, preparing them for advanced research and publication tasks.
