@@ -21,34 +21,34 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "she/her"  
+  bio              : "I am currently an assistant professor at Zhengzhou University, my research area includes AI-human interaction, and supply chain operations based on empirical methods."
+  location         : "Zhengzhou, China"
+  employer         : "Zhengzhou University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "guomengqiu@zzu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=MqM7GQ8AAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Mengqiu-Guo-4"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -76,11 +76,18 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Supply chain management case study (in Chinese)'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'The impacts of automation and augmentation AI use on physicians’ performance: an ambidextrous perspective'  
+    title: 'The impacts of the combination service model of cardiac rehabilitation on patient outcomes: evidence from a hospital experience' 
+    title: 'The impact of supply chain specific investments on firms’ market performance: the mediating role of innovation' 
+    title: '基于数字技术的医疗管理文献回顾与展望' 
   conferences:
-    title: 'Conference Papers'
+    title: 'Why experts use AI'
+    title: 'The Impact of Relational Ties in Enhancing Supply Chain Transparency and Financial Performance'
+    title: 'The impact of trust on customer information sharing and product innovation'
+    title: 'Being stingy or generous? A moderated mediation model of coercive power use and supplier visibility'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
