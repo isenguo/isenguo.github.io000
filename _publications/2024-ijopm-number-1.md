@@ -8,7 +8,7 @@ date: 2024-04-19
 venue: "International Journal of Operations & Production Management"
 slidesurl: "none"
 paperurl: "https://www.emerald.com/insight/content/doi/10.1108/IJOPM-06-2023-0509/full/html"
-citation: "Mengqiu Guo, Minhao Gu, Baofeng Huo. (2024). \"The impacts of automation and augmentation AI use on physicians’ performance: an ambidextrous perspective.\" <i>International Journal of Operations & Production Management </i>. ahead-of-print."
+citation: "Mengqiu Guo, Minhao Gu, and Baofeng Huo. (2024). \"The impacts of automation and augmentation AI use on physicians’ performance: an ambidextrous perspective.\" <i>International Journal of Operations & Production Management </i>. ahead-of-print."
 ---
 
 ---
