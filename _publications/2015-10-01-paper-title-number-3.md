@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: "/publication/2023-paper-The-impact-of-supply-chain-specific-investments-on-firms-market-performance-the-mediating-role-of-innovation"
 excerpt: "This paper is about a classic supply chain operation question: will specific investments to customers bring good results?"
-date: 2023
+date: 2023-01-02
 venue: "Journal of Business & Industrial Marketing"
 slidesurl: "none"
 paperurl: "https://www.emerald.com/insight/content/doi/10.1108/JBIM-03-2021-0162/full/html"
