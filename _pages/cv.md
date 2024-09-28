@@ -42,7 +42,7 @@ Teaching
 * **2024 Spring: Academic Writing**
   * Graduate Course, Zhengzhou University, School of Management
   * Location: Zhengzhou, China
-  * [Course Link](https://your-website-link.com/teaching/2024-spring-academic-writing)
+  * [Course Link] (https://isenguo.github.io/teaching/2024-spring-academic-writing)
 
 Awards
 ======
