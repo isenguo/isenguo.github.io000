@@ -59,7 +59,7 @@ The course will cover the following topics:
 
 ## Grading  
 - **Process Assessment**: Attendance (40%).
-- **Final Exam**: Final exam (60%).
+- **Exam**: Final exam (60%).
 
 ## Textbook  
 - **Primary Text**: *Modern Logistics Technology and Equipment (4th Edition)* by Tang Siyuan, Tsinghua University Press, 2022.  
