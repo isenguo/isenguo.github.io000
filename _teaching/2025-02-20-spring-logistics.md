@@ -8,7 +8,7 @@ venue: "Zhengzhou University, School of Management"
 location: "Zhengzhou, China"
 ---
 
-This course focuses on equipping postgraduate students with the knowledge and skills related to logistics technology and equipment, covering various components critical to modern logistics systems. Below are the key details and learning outcomes of the course.
+This course focuses on equipping postgraduate students with the knowledge and skills related to logistics technology and equipment, covering various components critical to modern logistics systems.
 
 ## Course Details  
 - **Course**: Logistics Technology and Equipment  
