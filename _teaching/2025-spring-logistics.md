@@ -1,4 +1,3 @@
-
 ---
 title: "Logistics Technology and Equipment 物流技术装备"
 collection: teaching
