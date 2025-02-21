@@ -1,5 +1,12 @@
-# Logistics Technology and Equipment  
-**Undergraduate Course, Zhengzhou University, School of Management**
+
+---
+title: "Logistics Technology and Equipment 物流技术装备"
+collection: teaching
+type: "undergraduate course"
+permalink: /teaching/2025-spring-logistics
+venue: "Zhengzhou University, School of Management"
+location: "Zhengzhou, China"
+---
 
 This course focuses on equipping postgraduate students with the knowledge and skills related to logistics technology and equipment, covering various components critical to modern logistics systems. Below are the key details and learning outcomes of the course.
 
@@ -58,4 +65,5 @@ The course will cover the following topics:
 - **Primary Text**: *Modern Logistics Technology and Equipment (4th Edition)* by Tang Siyuan, Tsinghua University Press, 2022.  
 - **Reference**: *Logistics Technology and Equipment* by Li Yumin, Shanghai University of Finance and Economics Press, 2008.
 
+---
 This course is designed to prepare students for a competitive career in logistics by providing them with essential knowledge about the technology that powers modern supply chains and distribution networks.
