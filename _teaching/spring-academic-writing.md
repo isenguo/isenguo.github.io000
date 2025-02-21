@@ -8,7 +8,7 @@ venue: "Zhengzhou University, School of Management"
 location: "Zhengzhou, China"
 ---
 
-This course focuses on equipping postgraduate students with the skills necessary for effective academic writing. Below are the key details and learning outcomes of the course.
+This course focuses on equipping postgraduate students with the skills necessary for effective academic writing.
 
 ### Course Details
 
