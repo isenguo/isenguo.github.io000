@@ -1,5 +1,5 @@
 ---
-title: "Academic Writing"
+title: "Academic Writing论文写作与指导"
 collection: teaching
 type: "postgraduate course"
 permalink: /teaching/2024-spring-academic-writing
