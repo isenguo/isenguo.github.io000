@@ -50,13 +50,13 @@ The course will cover the following topics:
 5. **Logistics Information Technology**  
    - Integration of RFID, barcode systems, and other technological advancements in logistics information management.
 
-## Teaching Methods  
+## Teaching Delivery  
 - **Lectures**: Presenting core concepts and theories.
 - **Case Studies**: Applying theories to real-world scenarios.
 - **Discussions**: Facilitating peer-to-peer knowledge sharing.
 - **Exams and Assignments**: Assessing students’ grasp of the material and problem-solving capabilities.
 
-## Evaluation  
+## Grading  
 - **Process Assessment**: Attendance (40%).
 - **Final Exam**: Final exam (60%).
 
