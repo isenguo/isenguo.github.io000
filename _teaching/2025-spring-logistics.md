@@ -57,8 +57,8 @@ The course will cover the following topics:
 - **Exams and Assignments**: Assessing students’ grasp of the material and problem-solving capabilities.
 
 ## Evaluation  
-- **Process Assessment**: Includes assignments and in-class performance (40%).
-- **Final Exam**: A written, closed-book exam to assess understanding of key concepts and the ability to apply logistics technology to real-world problems (60%).
+- **Process Assessment**: Attendance (40%).
+- **Final Exam**: Final exam (60%).
 
 ## Textbook  
 - **Primary Text**: *Modern Logistics Technology and Equipment (4th Edition)* by Tang Siyuan, Tsinghua University Press, 2022.  
