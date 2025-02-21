@@ -1,7 +1,7 @@
 ---
 title: "Academic Writing 论文写作与指导"
 collection: teaching
-date: 2199-05-01
+date: 2025-03-14
 type: "postgraduate course"
 permalink: /teaching/2024-spring-academic-writing
 venue: "Zhengzhou University, School of Management"
