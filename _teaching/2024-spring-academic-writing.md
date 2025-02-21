@@ -1,10 +1,9 @@
 ---
-title: "Academic Writing论文写作与指导"
+title: "Academic Writing 论文写作与指导"
 collection: teaching
 type: "postgraduate course"
 permalink: /teaching/2024-spring-academic-writing
 venue: "Zhengzhou University, School of Management"
-date: 2024-04-24
 location: "Zhengzhou, China"
 ---
 
@@ -13,7 +12,7 @@ This course focuses on equipping postgraduate students with the skills necessary
 ### Course Details
 
 - **Course**: Academic Writing
-- **Term**: Spring 2024
+- **Term**: Spring
 - **Credit**: 1
 - **Level**: Postgraduate
 
