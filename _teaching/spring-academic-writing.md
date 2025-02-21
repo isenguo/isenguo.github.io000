@@ -37,6 +37,7 @@ This course focuses on equipping postgraduate students with the skills necessary
 - **Process Assessment**: Attendance and participation (20%).
 - **Group assignment**: presentation (40%).
 - **Individual assignment**: Research proposal (40%).
+
 ---
 
 This course is designed to build essential academic writing skills for postgraduate students, preparing them for advanced research and publication tasks.
