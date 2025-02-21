@@ -35,7 +35,7 @@ This course focuses on equipping postgraduate students with the skills necessary
 
 ## Grading  
 - **Process Assessment**: Attendance and participation (20%).
-- **Group Assignment**: presentation (40%).
+- **Group Assignment**: Presentation (40%).
 - **Individual Assignment**: Research proposal (40%).
 
 ---
